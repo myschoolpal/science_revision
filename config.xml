@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns   = "http://www.w3.org/ns/widgets"
+        xmlns:gap   = "http://phonegap.com/ns/1.0"
+        id          = "com.myschoolpal.showse"
+        versionCode = "10" >
+
+    <!-- versionCode is optional and Android only -->
+
+    <name>Science Revision</name>
+
+    <description>
+        A Test for my Science Revision App
+    </description>
+
+    <author href="https://showse.myschoolpal.com" email="steve.howse@myschoolpal.co.uk">
+        Stephen Howse
+    </author>
+
+</widget>
